@@ -1,8 +1,13 @@
----
-layout: page
-title: Music
-permalink: /music/
----
+<!--
+.. title: Music
+.. slug: music
+.. date: 2025-02-17 12:23:40 UTC+01:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+-->
 
 <!-- 01 - Mandy Metal Project-->
 <iframe title="deezer-widget" src="https://widget.deezer.com/widget/auto/playlist/11924911681" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
