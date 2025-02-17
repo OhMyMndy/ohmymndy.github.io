@@ -1,0 +1,4 @@
+Sitemap: https://ohmymndy.com/sitemapindex.xml
+
+User-Agent: *
+Host: ohmymndy.com

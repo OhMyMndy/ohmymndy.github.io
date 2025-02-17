@@ -1,4 +1,0 @@
-
-dev:
-	bundle
-	jekyll serve

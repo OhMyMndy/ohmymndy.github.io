@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OhMyMndy.com</title><link>https://ohmymndy.com/</link><description>Mandy Schoep</description><atom:link href="https://ohmymndy.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2025 &lt;a href="mailto:"&gt;Mandy Schoep&lt;/a&gt; </copyright><lastBuildDate>Mon, 17 Feb 2025 12:59:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Searching through GitHub tips</title><link>https://ohmymndy.com/blog/searching-through-github-tips/</link><dc:creator>Mandy Schoep</dc:creator><description>&lt;p&gt;Quick GitHub and Sourcegraph search tip!&lt;/p&gt;
+&lt;p&gt;As an open-source enthusiast, I hate reinventing the wheel. When I want to run something in my Homelab, I try to find similar configurations to base mine on.&lt;/p&gt;
+&lt;p&gt;Today I wanted to run Minio, mainly because I want to use it as an S3 compatible backend for Terraform state files.&lt;/p&gt;
+&lt;p&gt;But, how do I set this up with Docker Compose?&lt;/p&gt;
+&lt;p&gt;Looking for Docker Compose files with "minio" in the content or filename can be done on GitHub with the search query:
+&lt;code&gt;path:/docker-compose\.ya?ml/ minio&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;On Sourcegraph, the same thing can be done with:
+&lt;code&gt;context:global path:docker-compose.ya?ml minio&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt='Search for Docker Compose files with "minio" in the title or content on GitHub' src="https://ohmymndy.com/images/github-search.png"&gt;
+&lt;img alt='Search for Docker Compose files with "minio" in the title or content on Sourcegraph' src="https://ohmymndy.com/images/sourcegraph-search.png"&gt;&lt;/p&gt;</description><guid>https://ohmymndy.com/blog/searching-through-github-tips/</guid><pubDate>Mon, 17 Feb 2025 11:19:19 GMT</pubDate></item></channel></rss>

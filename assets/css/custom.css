@@ -1,0 +1,15 @@
+#footer {
+  padding-top: 0px;
+  padding-bottom: 22px;
+}
+footer > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer .socials a {
+  font-size: 30px;
+  padding: 10px;
+  color: black;
+}

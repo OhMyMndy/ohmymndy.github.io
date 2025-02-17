@@ -1,12 +1,21 @@
----
-layout: page
-permalink: /
----
+<!--
+.. title: Mandy Schoep
+.. slug: index
+.. date: 2025-02-17 12:41:31 UTC+01:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. hidetitle: True
+.. type: text
+-->
 
-Software engineer, musician, cat mom and tinkerer with a passion for automation, software development and Linux.
+With over 11 years of experience as a Cloud Native Software Engineer, I have worked across the banking, e-commerce, and professional services industries.
+My strong affinity for automation, testing, and observability enables me to excel in delivering and designing solutions in highly critical environments.
 
-I have over 10 years of experience in backend web development and over 5 years of experience as a DevOps engineer and Linux server administrator.
+Leveraging expertise in Linux system administration, database management, software development, and cloud engineering,
+I build future-proof solutions that adhere to industry standards, with automation as a cornerstone. Known for creative problem-solving, thought leadership, innovation, and the implementation of DevOps principles, I effectively bridge the gap between developers and operations.
 
-In my spare time, I like to work on my home automation setup, play (bass) guitar, tinker with new technologies, learn new skills and work on open-source projects.
+A deep understanding of the entire software development lifecycle allows for seamless collaboration and an optimal developer experience.
 
-I am interested in working with the following technologies: Linux, Nix (OS), Python, PHP, Golang, Elasticsearch, MySQL, PostgreSQL, Grafana, Terraform, Docker, Kubernetes, CDK8S, Google Cloud, Backstage, Dagger.io
+I am interested in working with the following technologies: Linux, Nix (OS), Talos, Kubernetes, Python, PHP, Golang, Grafana, Loki, Prometheus, Elasticsearch,MySQL, PostgreSQL, Terraform, Google Cloud, Backstage, Dagger.io.
