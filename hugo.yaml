@@ -1,0 +1,51 @@
+
+baseURL: "https://ohmymndy.com/"
+languageCode: "en-us"
+title: "OhMyMndy"
+theme: "paper"
+DefaultContentLanguage: en
+
+permalinks:
+    post: /post/:slug/
+    page: /:slug/
+menus:
+    main:
+        - name: "About"
+          pageRef: "/about"
+          weight: 20
+        - name: "Blog"
+          pageRef: "/posts"
+          weight: 20
+
+        - name: "Music"
+          pageRef: "/music"
+          weight: 30
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/ohmymndy
+          params:
+              icon: brand-github
+
+        - identifier: linkedin
+          name: Linkedin
+          url: https://linkedin.com/in/mandy-schoep
+          params:
+              icon: brand-linkedin
+params:
+    github: "ohmymndy"
+    linkedin: "mandy-schoep"
+    mastodon: "https://fosstodon.org/@ohmymndy"
+    bluesky: "ohmymndy.com"
+    rss: true
+    avatar: "mandyschoep@gmail.com"
+    disableHLJS: false
+    bio: CKA, CKAD, LFCS, Terraform and Google Cloud Architect certified.
+#    gravatarCdn: "/images/mandy.jpg"
+    name: "Mandy Schoep"
+    mainSections:
+        - posts
+
+
+
