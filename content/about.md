@@ -1,6 +1,6 @@
----
-title: "About"
----
++++
+title =  "About"
++++
 
 With over 11 years of experience as a **Cloud Native Software Engineer**, I have worked across the banking, e-commerce, and professional services industries. 
 My strong affinity for **automation**, **testing**, and **observability** enables me to excel in delivering and designing solutions in highly critical environments.
